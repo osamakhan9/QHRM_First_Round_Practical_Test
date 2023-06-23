@@ -29,7 +29,7 @@ Using HTML, CSS, Javascript and React JS technology I have created Products list
 - Dasboard page show appending data.
 - Add the Detailed page successfully.
 - Filter Functionlity.
-- Edit page and Update your todo_list
+- Edit page and Update your Products
 
 
 ## Area of Responsibility
